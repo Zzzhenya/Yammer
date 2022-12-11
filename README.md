@@ -4,7 +4,7 @@
 
 ## Objective
 
-* Analyzing Yammer usage data from public library on Mode analytics to determine reasons for reduced user engagement
+* Analyzing Yammer usage data from the public data library on Mode analytics to determine reasons for reduced user engagement
 
 ## Used tools and libraries
 
