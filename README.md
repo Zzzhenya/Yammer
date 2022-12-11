@@ -1,9 +1,11 @@
 # Yammer data exploration and analysis
 
 * Analysis
+
 https://modeanalytics.com/redi/reports/a16f649943bb
 
 * Data Exploration and process
+
 https://modeanalytics.com/redi/reports/fb27f91e5f36
 
 
