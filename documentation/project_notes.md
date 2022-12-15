@@ -25,17 +25,11 @@ Improvement notes: Most queries were repetitive. A method to create a data dicti
 
 ### Understanding the relationship between the tables and data rows
 
-tutorial.yammer_users (users) contains a list of users created from January, 2013 to August, 2014
-
-tutorial.yammer_events (events) contains a list of events that occurred from May, 2014 to August, 2014
-
-Events have two types, Signup_flow and engagement. 
-
-* What are events really? Events in this contects are user actions. 
-
-After a user follows through the signup-flow, the user is activated and any action the user performs on the platform are engagement events.
-
-* Why the time duration difference in the two tables? The focus during data extraction must be on events that occured between May to August, 2014.
+* tutorial.yammer_users (users) contains a list of users created from January, 2013 to August, 2014
+* tutorial.yammer_events (events) contains a list of events that occurred from May, 2014 to August, 2014
+* Events have two types, Signup_flow and engagement. 
+* After users complete the signup-flow, they are activated and any action performed on the platform are engagement events.
+* Events in this context are user actions. 
 
 
 
