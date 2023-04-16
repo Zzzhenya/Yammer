@@ -15,8 +15,7 @@ https://modeanalytics.com/redi/reports/fb27f91e5f36
 
 ## Used tools and libraries
 
-* SQL 
-* Mode Analytics 
+* SQL on Mode Analytics 
 * Xmind 
 
 ## Example report
